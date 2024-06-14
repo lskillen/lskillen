@@ -1,5 +1,7 @@
 ## :metal: About ~Lee~ Me
 
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lskillen) &nbsp; [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lskillen) &nbsp; [![Twitter/X](https://img.shields.io/badge/Twitter\/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/lskillen) &nbsp; [![Cloudsmith](https://img.shields.io/badge/Cloudsmith-2A6FE1?style=for-the-badge&logo=cloudsmith&logoColor=white)](https://cloudsmith.com)
+
 Chief Code Monkey at [Cloudsmith](https://cloudsmith.com), Father of Two, and All-Round Technology Geek.
 
 👈 Yes, that really is a *giant* Pac-Man cup; no, it's not because I've got a tiny head (or maybe it is?)
@@ -25,7 +27,6 @@ Chief Code Monkey at [Cloudsmith](https://cloudsmith.com), Father of Two, and Al
 Having raised over $30 million, we are building the team and technology of Cloudsmith through to IPO.
 
 WE ARE HIRING. See: https://cloudsmith.com/careers/
-
 
 ## ⌨️ Obligation Commit History (as of 2024-06-14)
 
