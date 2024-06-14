@@ -13,7 +13,7 @@ Chief Code Monkey at [Cloudsmith](https://cloudsmith.com), Father of Two, and Al
 ### 🆎 Some things about me:
 
 - I'm an experienced technical leader and engineer passionate about building, naming, and caching things.
-- I love working in the developer tools domain, of "by developers, for developers".
+- I love working in the developer tools domain, of "by developers, for developers"; whbere better to work than _with_ and _for_ devs??
 - My strengths involve a flair for precise detail and the capability to operate at different levels, from a deep dive into the specifics of software/hardware and web-scale architecture to managing a business or leading teams of excellent engineers to communicating with customers, executives, and the office problem bear.
 - I'm friendly, considerate, and open to sharing hard-won business insights and technical experiences with the world.
 - I contribute to open-source projects where possible (and I'd like to do more) and offer my services pro bono/gratis to help others.
