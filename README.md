@@ -2,6 +2,8 @@
 
 Chief Code Monkey at [Cloudsmith](https://cloudsmith.com), Father of Two, and All-Round Technology Geek.
 
+👈 Yes, that really is a *giant* Pac-Man cup; no, it's not because I've got a tiny head (or maybe it is?)
+
 ### 3️⃣ 3-Time Founder:
 
 1. Newzbin - It changed the world (well, some part of it) and got shut down by the MPAA. :'(
