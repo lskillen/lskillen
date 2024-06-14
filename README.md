@@ -8,9 +8,9 @@ Chief Code Monkey at [Cloudsmith](https://cloudsmith.com), Father of Two, and Al
 
 ### 3️⃣ 3-Time Founder:
 
-1. Newzbin - It changed the world (well, some part of it) and got shut down by the MPAA. :'(
-2. Vulcan FT - It did not change the world, but it was a fantastic learning experience; it ran out of cash. :(
-3. Cloudsmith - A cloud-native artifact management 24/7 SaaS. Working on changing the world. ;)
+1. 🏴‍☠️ Newzbin - It changed the world (well, some part of it) and got shut down by the MPAA. :'(
+2. 🔨 Vulcan FT - It did not change the world, but it was a fantastic learning experience; it ran out of cash. :(
+3. 🌩️ Cloudsmith - A cloud-native artifact management 24/7 SaaS. Working on changing the world. ;)
 
 ### 🆎 Some things about me:
 
