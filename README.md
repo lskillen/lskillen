@@ -28,7 +28,7 @@ Having raised over $30 million (🤑), we are building the team and technology o
 
 WE ARE HIRING. See: https://cloudsmith.com/careers/
 
-## ⌨️ Obligation Commit History (as of 2024-06-14)
+## ⌨️ Obligatory Commit History (as of 2024-06-14)
 
 Almost entirely dedicated to building Cloudsmith, but also includes OSS contributions and other collaborations:
 
