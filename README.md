@@ -24,7 +24,7 @@ Chief Code Monkey at [Cloudsmith](https://cloudsmith.com), Father of Two, and Al
 
 ### ❓ What's going on?
 
-Having raised over $30 million, we are building the team and technology of Cloudsmith through to IPO.
+Having raised over $30 million (🤑), we are building the team and technology of Cloudsmith through to IPO (🚀).
 
 WE ARE HIRING. See: https://cloudsmith.com/careers/
 
