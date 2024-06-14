@@ -17,7 +17,8 @@ Chief Code Monkey at [Cloudsmith](https://cloudsmith.com), Father of Two, and Al
 - My strengths involve a flair for precise detail and the capability to operate at different levels, from a deep dive into the specifics of software/hardware and web-scale architecture to managing a business or leading teams of excellent engineers to communicating with customers, executives, and the office problem bear.
 - I'm friendly, considerate, and open to sharing hard-won business insights and technical experiences with the world.
 - I contribute to open-source projects where possible (and I'd like to do more) and offer my services pro bono/gratis to help others.
-- I'm also a self-certified gadget, gaming, and technology geek who occasionally balances that with exploring the outside world, usually with two of the best munchkins I ever invented (they're now aged 10+13 and rapidly catching up in height).
+- I'm also a self-certified gadget, gaming (video games, board games, social games, you name it!), and general technology geek.
+- I occasionally balance all that with exploring the outside world, usually with two of the best munchkins I ever invented (they're now aged 10+13 and rapidly catching up in height).
 
 ### ❓ What's going on?
 
