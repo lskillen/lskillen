@@ -28,6 +28,8 @@ Almost entirely dedicated to building Cloudsmith, but also includes OSS contribu
 
 ![contributions](https://github.com/lskillen/lskillen/assets/2248287/df77b496-6ff5-41fe-b68a-b1be5663bf0b)
 
+You can generate your own over here:
+https://github-contributions.vercel.app/
 
 <!--
 **lskillen/lskillen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
