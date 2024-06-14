@@ -10,7 +10,7 @@ Chief Code Monkey at [Cloudsmith](https://cloudsmith.com), Father of Two, and Al
 
 1. 🏴‍☠️ **Newzbin** (2001-2010) - It changed the world (well, some part of it) and got shut down by the MPAA. :'(
 2. 🔨 **Vulcan FT** (2012-2016) - It did not change the world, but it was a fantastic learning experience; it ran out of cash. :(
-3. 🌩️ **Cloudsmith** (2016-2018, 2018-) - A cloud-native artifact management 24/7 SaaS. Working on changing the world. ;)
+3. 🌩️ **Cloudsmith** (1.0: 2016-2018, 2.0: 2018-) - A cloud-native artifact management 24/7 SaaS. Working on changing the world. ;)
 
 ### 🆎 Some things about me:
 
