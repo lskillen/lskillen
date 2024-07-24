@@ -28,11 +28,11 @@ Having raised over $30 million (🤑), we are building the team and technology o
 
 WE ARE HIRING. See: https://cloudsmith.com/careers/
 
-## ⌨️ Obligatory Commit History (as of 2024-06-14)
+## ⌨️ Obligatory Commit History (as of 2024-07-24)
 
 Almost entirely dedicated to building Cloudsmith, but also includes OSS contributions and other collaborations:
 
-![contributions](https://github.com/lskillen/lskillen/assets/2248287/df77b496-6ff5-41fe-b68a-b1be5663bf0b)
+![contributions](https://github.com/user-attachments/assets/decd7c70-4c00-4d1a-931e-fb0269f05a51)
 
 You can generate your own over here:
 https://github-contributions.vercel.app/
