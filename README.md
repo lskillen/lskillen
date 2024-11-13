@@ -5,11 +5,11 @@
 
 > Building cloud-native platforms that developers love to use 🌩️
 
+👈 Yes, that really is a *giant* Pac-Man cup; no, it's not because I've got a tiny head (or maybe it is?)
+
 ## 👋 About Me
 
 I'm a passionate technologist and serial entrepreneur who turned a Commodore 64 from childhood into a lifelong journey of building innovative tech solutions. Currently serving as Founder & CTO at Cloudsmith, where we're revolutionizing cloud-native artifact management and securing the world's software supply chain.
-
-👈 Yes, that really is a *giant* Pac-Man cup; no, it's not because I've got a tiny head (or maybe it is?)
 
 ## 3️⃣ Career Highlights
 
