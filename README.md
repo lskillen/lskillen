@@ -15,7 +15,7 @@ I'm a passionate technologist and serial entrepreneur who turned a Commodore 64 
 
 - 3x Technical Founder:
   - 🌩️ [**Cloudsmith**](https://cloudsmith.com)  (2018-present) - Leading cloud-native artifact management platform (see above!)
-  - 🔨 [**Vulcan FT**](https://github.com/vulcanft) (2012-2016) - Fintech automation pioneer building experimental Domain Specific Language tech (hint: Don't do it.)
+  - 🔨 [**Vulcan FT**](https://github.com/vulcanft) (2012-2016) - Fintech platform with experimental Domain Specific Language tech (hint: Don't do it.)
   - 🏴‍☠️ [**Newzbin**](https://en.wikipedia.org/wiki/Newzbin) (2001-2010) - Groundbreaking Usenset search engine that set some interesting legal precedents in UK tech
   
 ## 💡 Technical Focus
