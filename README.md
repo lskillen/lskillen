@@ -9,11 +9,11 @@
 
 ## 👋 About Me
 
-I didn’t start with much, but I started early. I wrote BASIC on a Commodore 64, hacked together games, and reverse-engineered software just to see how it worked. That curiosity turned into a career, starting with a Newzbin, and eventually into a Cloudsmith.
+I didn’t start with much, but I started early. I wrote BASIC on a Commodore 64, hacked together games, and reverse-engineered software to see how it worked. That curiosity turned into a career, starting with a Newzbin, and eventually a Cloudsmith.
 
 I’m Lee, co-founder and CTO of Cloudsmith and a lifelong builder. My journey has taken me from bedroom coding in Belfast to running a platform that secures the software supply chain for some of the biggest companies in the world. Along the way, I’ve worked across search, security, cloud infrastructure, and developer tooling. I’ve failed, learned, started again, and kept going.
 
-Cloudsmith reflects that mindset. We’re not just artifact storage. We’re a global control plane for software entering and exiting companies. We sit next to every source and sink of code, data, and packages, making sure what goes in and what comes out is safe, trusted, and manageable at scale.
+Cloudsmith reflects that mindset. We’re not just artifact storage. We’re cloud-native artifact management: a global control plane for software entering and exiting companies. We sit next to every source and sink of code, data, and packages, making sure what goes in and what comes out is safe, trusted, and manageable at scale.
 
 It’s fully managed, security by default, and built by a team that obsesses over simplicity and doing things right. When customers choose Cloudsmith, they get a service backed by real people, deep knowledge, and years of hard-won experience.
 
