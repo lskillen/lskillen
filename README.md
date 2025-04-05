@@ -9,7 +9,17 @@
 
 ## 👋 About Me
 
-I'm a passionate technologist and serial entrepreneur who turned a Commodore 64 from childhood into a lifelong journey of building innovative tech solutions. Currently serving as Founder & CTO at Cloudsmith, where we're revolutionizing cloud-native artifact management and securing the world's software supply chain.
+I didn’t start with much, but I started early. I wrote BASIC on a Commodore 64, hacked together games, and reverse-engineered software just to see how it worked. That curiosity turned into a career, starting with a Newzbin, and eventually into a Cloudsmith.
+
+I’m Lee, co-founder and CTO of Cloudsmith and a lifelong builder. My journey has taken me from bedroom coding in Belfast to running a platform that secures the software supply chain for some of the biggest companies in the world. Along the way, I’ve worked across search, security, cloud infrastructure, and developer tooling. I’ve failed, learned, started again, and kept going.
+
+Cloudsmith reflects that mindset. We’re not just artifact storage. We’re a global control plane for software entering and exiting companies. We sit next to every source and sink of code, data, and packages, making sure what goes in and what comes out is safe, trusted, and manageable at scale.
+
+It’s fully managed, security by default, and built by a team that obsesses over simplicity and doing things right. When customers choose Cloudsmith, they get a service backed by real people, deep knowledge, and years of hard-won experience.
+
+I still like to stay close to the code. I still care deeply about good architecture, clear thinking, and enabling great engineers to do their best work. I focus on building tools that make teams safer, faster, and saner.
+
+If any of that resonates with you, or if you want to discuss platform engineering, developer experience, managing chaos at scale, or building something from scratch, get in touch.
 
 ## 3️⃣ Career Highlights
 
@@ -17,31 +27,10 @@ I'm a passionate technologist and serial entrepreneur who turned a Commodore 64 
   - 🌩️ [**Cloudsmith**](https://cloudsmith.com)  (2018-present) - Leading cloud-native artifact management platform (see above!)
   - 💸 [**Vulcan FT**](https://github.com/vulcanft) (2012-2016) - Fintech platform using Domain Specific Language tech (hint: No.)
   - 🏴‍☠️ [**Newzbin**](https://en.wikipedia.org/wiki/Newzbin) (2001-2010) - Groundbreaking Usenset search engine that set some interesting legal precedents in UK tech
-  
-## 💡 Technical Focus
-
-- Cloud-native architectures and distributed systems.
-- Search engine technology and high-performance computing.
-- Security and software supply chain integrity.
-- Web-scale services and database optimization.
-
-## 🎮 Beyond the Code
-
-- Proud father balancing tech leadership with family time.
-- Avid gamer (board games, video games, you name it!)
-- Technology tinkerer and perpetual learner.
-- Open source contributor and community supporter.
-
-## 🛠️ Expertise
-
-- Building developer-first platforms and tools.
-- Scaling cloud-native architectures.
-- Technical leadership and team building.
-- Enterprise security and compliance.
 
 ## ❓ What's going on?
 
-Having raised over $30 million (🤑), we are building the team and technology of Cloudsmith through to IPO (🚀).
+Having raised over $53 million (🤑), we are building the team and technology of Cloudsmith through to IPO (🚀).
 
 WE ARE HIRING. See: https://careers.cloudsmith.com/
 
