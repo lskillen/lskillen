@@ -9,17 +9,17 @@
 
 ## 👋 About Me
 
-I didn’t start with much, but I started early. I wrote BASIC on a Commodore 64, hacked together games, and reverse-engineered software to see how it worked. That curiosity turned into a career, starting with a Newzbin, and eventually a Cloudsmith.
+I didn’t start with much. But I started with a C64, a mind full of questions, and a lot of time alone.
 
-I’m Lee, co-founder and CTO of Cloudsmith and a lifelong builder. My journey has taken me from bedroom coding in Belfast to running a platform that secures the software supply chain for some of the biggest companies in the world. Along the way, I’ve worked across search, security, cloud infrastructure, and developer tooling. I’ve failed, learned, started again, and kept going.
+That turned into BASIC, games, C/C++, and reverse engineering. Curiosity gave me a future.
 
-Cloudsmith reflects that mindset. We’re not just artifact storage. We’re cloud-native artifact management: a global control plane for software entering and exiting companies. We sit next to every source and sink of code, data, and packages, making sure what goes in and what comes out is safe, trusted, and manageable at scale.
+I’m Lee, co-founder and CTO at Cloudsmith. I’ve gone from bedroom coding in Belfast to building a platform that helps secure the software supply chain for some of the biggest companies in the world.
 
-It’s fully managed, security by default, and built by a team that obsesses over simplicity and doing things right. When customers choose Cloudsmith, they get a service backed by real people, deep knowledge, and years of hard-won experience.
+I helped build Newzbin and Cloudsmith. I’ve worked across search, cloud, security, and developer tools. I’ve lived through failure, burnout, heartache, fundraising, rebuilds, breakthroughs, and success.
 
-I still like to stay close to the code. I still care deeply about good architecture, clear thinking, and enabling great engineers to do their best work. I focus on building tools that make teams safer, faster, and saner.
+I still stay close to the code. I obsess over good architecture, smart defaults, and making engineers' lives easier. It doesn’t need to be magic; it just needs to be honest, reliable, and built right.
 
-If any of that resonates with you, or if you want to discuss platform engineering, developer experience, managing chaos at scale, or building something from scratch, get in touch.
+If you care about platform engineering, developer experience, critical infrastructure, securing the world’s software, or scaling without breaking the team, let’s talk. Starting something new? I’d love to hear about it.
 
 ## 3️⃣ Career Highlights
 
