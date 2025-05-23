@@ -24,7 +24,7 @@ If you care about platform engineering, developer experience, critical infrastru
 ## 3️⃣ Career Highlights
 
 - 3x Technical Founder:
-  - 🌩️ [**Cloudsmith**](https://cloudsmith.com)  (2018-present) - Leading cloud-native artifact management platform (see above!)
+  - 🌩️ [**Cloudsmith**](https://cloudsmith.com)  (2016-present) - Leading cloud-native artifact management platform (see above!)
   - 💸 [**Vulcan FT**](https://github.com/vulcanft) (2012-2016) - Fintech platform using Domain Specific Language tech (hint: No.)
   - 🏴‍☠️ [**Newzbin**](https://en.wikipedia.org/wiki/Newzbin) (2001-2010) - Groundbreaking Usenset search engine that set some interesting legal precedents in UK tech
 
