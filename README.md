@@ -9,24 +9,20 @@
 
 ## 👋 About Me
 
-I didn’t start with much. But I started with a C64, a mind full of questions, and a lot of time alone.
-
-That turned into BASIC, games, C/C++, and reverse engineering. Curiosity gave me a future.
-
-I’m Lee, co-founder and CTO at Cloudsmith. I’ve gone from bedroom coding in Belfast to building a platform that helps secure the software supply chain for some of the biggest companies in the world.
-
-I helped build Newzbin and Cloudsmith. I’ve worked across search, cloud, security, and developer tools. I’ve lived through failure, burnout, heartache, fundraising, rebuilds, breakthroughs, and success.
-
-I still stay close to the code. I obsess over good architecture, smart defaults, and making engineers' lives easier. It doesn’t need to be magic; it just needs to be honest, reliable, and built right.
-
-If you care about platform engineering, developer experience, critical infrastructure, securing the world’s software, or scaling without breaking the team, let’s talk. Starting something new? I’d love to hear about it.
+Hi, I’m Lee. Co-founder and CTO at Cloudsmith.
+ 
+I like building boring, hyper-critical infrastructure that helps keep the world running. You know, the easy stuff. ;)
+ 
+Right now, that means building the operating system for the software supply chain.
+ 
+And if you’re the kind of person who also loves this sort of “boring”, we’re hiring: "cloudsmith careers"
 
 ## 3️⃣ Career Highlights
 
 - 3x Technical Founder:
   - 🌩️ [**Cloudsmith**](https://cloudsmith.com)  (2016-present) - Leading cloud-native artifact management platform (hint: Yes.)
   - 💸 [**Vulcan FT**](https://github.com/vulcanft) (2012-2016) - Generative coding fintech platform using Domain Specific Language tech (hint: No.)
-  - 🏴‍☠️ [**Newzbin**](https://en.wikipedia.org/wiki/Newzbin) (2001-2010) - Usenset search engine that set some "interesting" precedents in the UK (hint: Sad.)
+  - 🏴‍☠️ [**Newzbin**](https://en.wikipedia.org/wiki/Newzbin) (2001-2010) - Usenet search engine that set some "interesting" precedents in the UK (hint: Sad.)
 
 ## ❓ What's going on?
 
